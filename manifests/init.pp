@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   include caffeine
+#   include skype
 class skype {
   package { 'Skype':
     provider => 'pkgdmg',
