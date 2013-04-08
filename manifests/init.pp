@@ -4,8 +4,8 @@
 #
 #   include skype
 class skype {
-  package { 'Skype':
+  package { 'GNU Image Manipulation Program':
     provider => 'appdmg',
-    source   => 'http://download.skype.com/macosx/Skype_6.3.59.582.dmg',
+    source   => 'ftp://ftp.gimp.org/pub/gimp/v2.8/osx/gimp-2.8.4-nopython-dmg-1.dmg',
   }
 }

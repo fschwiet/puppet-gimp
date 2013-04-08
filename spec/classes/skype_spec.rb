@@ -1,10 +1,10 @@
 require 'spec_helper'
 
-describe 'skype' do
+describe 'GNU Image Manipulation Program' do
   it do
-    should contain_package('Skype').with({
+    should contain_package('GNU Image Manipulation Program').with({
       :provider => 'appdmg',
-      :source   => 'http://download.skype.com/macosx/Skype_6.3.59.582.dmg',
+      :source   => 'ftp://ftp.gimp.org/pub/gimp/v2.8/osx/gimp-2.8.4-nopython-dmg-1.dmg',
     })
   end
 end
