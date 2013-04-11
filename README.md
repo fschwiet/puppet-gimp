@@ -1,9 +1,9 @@
-# Skype Puppet Module for Boxen
+# GIMP Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include skype 
+include gimp 
 ```
 
 ## Required Puppet Modules
