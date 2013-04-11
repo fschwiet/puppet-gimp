@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'GNU Image Manipulation Program' do
+describe 'gimp' do
   it do
     should contain_package('GNU Image Manipulation Program').with({
       :provider => 'appdmg',
