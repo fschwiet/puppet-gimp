@@ -1,4 +1,4 @@
-# Public: Install Skype.app to /Applications.
+# Public: Install GNU Image Manipulation Program to /Applications.
 #
 # Examples
 #
